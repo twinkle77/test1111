@@ -125,6 +125,7 @@
               "hideCard": false,
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
+              "dynamicTriggerPathList": [],
               "leftColumn": 30,
               "dynamicBindingPathList": [
                 {
@@ -134,7 +135,7 @@
                   "key": "borderRadius"
                 }
               ],
-              "text": "Submit",
+              "text": "S123123123ubmit",
               "isDisabled": false,
               "key": "08he1ij5wd",
               "isDeprecated": false,
